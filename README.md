@@ -16,15 +16,36 @@ I'm an **Applied AI Engineer** based in **Limerick, Ireland**, passionate about 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | JavaScript, TypeScript, Python, SQL |
 | **Frontend** | Next.js, React |
-| **AI/ML** | LangChain, LLMs, Mistral, RAG, Agentic AI |
+| **AI/LLM** | LangChain, CrewAI, LLMs, Mistral, RAG, Agentic AI |
+| **AI Coding Tools** | Claude Code, Codex, Lovable, Emergent, CanGemini ADK |
 | **Cloud** | Google Cloud Platform (GCP), Azure, Supabase |
 | **Tools** | Gainsight PX, Slack, GitHub Actions, Supademo |
+
+---
+
+## 💼 Projects & Work
+
+### 🐾 1-Place Pet Platform (In Progress)
+Building a comprehensive pet care platform with my co-founder **Laxman Prasad Somaraju** ([@laxmanprasadsomaraju](https://github.com/laxmanprasadsomaraju)). A one-stop platform for all things pets!
+
+### 🌐 PortfolioPal - CV to Portfolio Generator
+I built a tool that converts your CV into a beautiful portfolio. Try it out and create your own portfolio in minutes!
+🔗 [portfolio-pal.ie](https://preview--portfolio-pal-ie.lovable.app/)
+
+---
+
+## 🌐 Portfolio & Links
+
+- 🎨 **My Portfolio**: [portfolio-pal.ie/ram-prasad-somaraju](https://preview--portfolio-pal-ie.lovable.app/p/ram-prasad-somaraju-emjx65)
+- 💼 **LinkedIn**: [linkedin.com/in/ramprasad26](https://www.linkedin.com/in/ramprasad26/)
+- 🐙 **GitHub**: [github.com/dataanalystram](https://github.com/dataanalystram)
+- 👨‍💻 **Co-Founder**: [github.com/laxmanprasadsomaraju](https://github.com/laxmanprasadsomaraju)
 
 ---
 
@@ -43,13 +64,6 @@ I'm an **Applied AI Engineer** based in **Limerick, Ireland**, passionate about 
 ![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dataanalystram&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dataanalystram&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 📬 Let's Connect
-
-- 💼 **LinkedIn**: [linkedin.com/in/ramprasad28](https://www.linkedin.com/in/ramprasad28/)
-- 🐙 **GitHub**: [github.com/dataanalystram](https://github.com/dataanalystram)
 
 ---
 
