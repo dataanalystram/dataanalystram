@@ -61,12 +61,14 @@ I built a tool that converts your CV into a beautiful portfolio. Try it out and 
 
 ## 📊 GitHub Stats
 
-![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dataanalystram&show_icons=true&theme=radical&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=dataanalystram&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dataanalystram&layout=compact&theme=radical&hide_border=true)
+![Activity Graph](https://ghchart.rshah.org/dataanalystram)
 
 ---
 
 <p align="center">
+  <em>"Building intelligent products, one commit at a time."</em>
+</p>
   <em>"Building intelligent products, one commit at a time."</em>
 </p>
