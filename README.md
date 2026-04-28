@@ -23,9 +23,9 @@ I'm an **Applied AI Engineer** based in **Limerick, Ireland**, passionate about 
 | **Languages** | JavaScript, TypeScript, Python, SQL |
 | **Frontend** | Next.js, React |
 | **AI/LLM** | LangChain, CrewAI, LLMs, Mistral, RAG, Agentic AI |
-| **AI Coding Tools** | Claude Code, Codex, Lovable, Emergent, CanGemini ADK |
+| **AI Coding Tools** | Claude Code, Codex, Lovable, Emergent, Gemini ADK |
 | **Cloud** | Google Cloud Platform (GCP), Azure, Supabase |
-| **Tools** | Gainsight PX, Slack, GitHub Actions, Supademo |
+| **Tools** | Gainsight PX and CS, Slack, GitHub Actions, Staircase AI |
 
 ---
 
